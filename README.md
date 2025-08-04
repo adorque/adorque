@@ -6,6 +6,8 @@ I'm a 3rd year Computer Science Major at UCLA.
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adorque&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adorque&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adorque&theme=tokyonight)|
 |-----|------|------|
 
+Stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
+
 ## Languages and Tools 🦭
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
