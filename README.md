@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi I'm Alyssa! 👋
+
+## About me 🦕
+I'm a 3rd year Computer Science Major at UCLA.
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adorque&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adorque&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adorque&theme=dracula)|
+|-----|------|------|
+
+## Languages and Tools 🦭
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+
+## Projects 🐢
+### [Choreo: AI Dance Teacher](https://github.com/selsong/choreo)
+*Tech:* React, Flask, OpenCV, MediaPipe, Tensorflow  
+*Event:* LA Hacks, Apr 2025
+
+### [UniFit: Sustainable Clothing Rental Website](https://github.com/jackdeye/unifit)
+*Tech:* React, Vite, MongoDB, Node.js, Express  
+*Timeline:* Mar 2024 – Jun 2024
 
 <!--
 **adorque/adorque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
