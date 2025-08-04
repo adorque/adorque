@@ -3,7 +3,7 @@
 ## About me 🦕
 I'm a 3rd year Computer Science Major at UCLA.
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adorque&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adorque&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adorque&theme=dracula)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adorque&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adorque&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adorque&theme=tokyonight)|
 |-----|------|------|
 
 ## Languages and Tools 🦭
