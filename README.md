@@ -1,7 +1,13 @@
-# Hi I'm Alyssa! 👋
+# Hi!!! 👋
 
 ## About me 🦕
-I'm a 3rd year Computer Science Major at UCLA.
+My name is Alyssa Leung! I'm a 3rd year studying computer science at UCLA.
+
+📫: Reach me through aleung2@ucla.edu
+
+💬: I'm interseted in software development, web development, and business technology!
+
+🦭: I also love learning about different food, watching movies (particularly psychological thrillers and animated films!) and golf 🏌🏽‍♀️
 
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adorque&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adorque&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adorque&theme=tokyonight)|
 |-----|------|------|
